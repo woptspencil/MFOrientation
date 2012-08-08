@@ -2,7 +2,7 @@
 //  Data.h
 //  MatrixFactorizationOrientation
 //
-//  Created by 倪 嘉懋 on 12/7/25.
+//  Created by Jerry Ni on 12/7/25.
 //  Copyright (c) 2012年 woptspencil@gmail.com. All rights reserved.
 //
 
