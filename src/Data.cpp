@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <fstream>
+#include <cstdlib>
 #include "Data.h"
 
 User::User(string theName, int num) {

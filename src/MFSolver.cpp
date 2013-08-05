@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include <math.h>
+#include <cstdlib>
 #include "MFSolver.h"
 
 int main(int argc, char *argv[]) {	
